@@ -18,6 +18,9 @@ The variables in the theme file allow you to change many things, including but n
 
 Need Help [My Discord Server](https://discord.gg/4fjty9XGVv)
 
+# Installation:
+Tutorial (soon)
+
 # Downloads: 
 # - Desktop App (Windows)
 - [Discord](https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86)
