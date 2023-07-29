@@ -19,10 +19,10 @@ The variables in the theme file allow you to change many things, including but n
 Need Help [My Discord Server](https://discord.gg/4fjty9XGVv)
 
 # Downloads: 
-# -Desktop App
+# - Desktop App
 - [Discord](https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86)
 - [Addon Client](https://github.com/Vencord/Installer/releases/latest/download/VencordInstaller.exe)
-# -Web App
+# - Web App
 - [Addon Website](https://chrome.google.com/webstore/detail/vencord-web/cbghhgpcnddeihccjmnadmkaejncjndb)
-# -The addon needed for all
+# - The addon needed for all
 - [Addon](https://github.com/Enderkries2011/private-stuff/releases/download/Discord%2B/Discord+.json)
